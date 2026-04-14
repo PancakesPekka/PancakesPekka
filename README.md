@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I'm Hari
 
-<!--
-**PancakesPekka/PancakesPekka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building AI-powered systems, automation tools, and real-world projects
+💡 Currently working on:
 
-Here are some ideas to get you started:
+* Shiro – Local AI Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+* Python (Automation, AI/ML basics)
+* Computer Vision (YOLOv8)
+* Git & GitHub
+* Web Development (Beginner)
+
+---
+
+## 🔥 Projects
+
+### 🧠 Shiro (AI Assistant)
+
+Local lightweight assistant inspired by JARVIS
+
+* Wake word detection
+* Task automation
+* Personalized responses
+
+
+## 📫 Connect with Me
+
+* LinkedIn: www.linkedin.com/in/hari-s-
+
